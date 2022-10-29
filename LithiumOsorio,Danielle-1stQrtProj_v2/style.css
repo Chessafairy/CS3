@@ -1,0 +1,200 @@
+html {
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDlMpNPWZRX4iiDct77ooEUKwnMNstzLRglw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height:100%;
+	background-attachment: fixed; 
+	font-family: papyrus;
+	color: white;
+  }
+  
+  #axolotl_morph {
+	text-align: center;
+	color:rgb(160 217 149));
+    background-image: url('https://image.shutterstock.com/image-photo/common-duckweed-lesser-260nw-1071268694.jpg');
+    border: 5px double #395144;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-left:10px;
+    width:50%;
+    margin-bottom:20px;
+	position: relative;
+	left: 300px;
+  }  
+  
+  #axolotls {
+	  text-align: center;
+	  color: rgb(160 217 149));
+	  background-image: url('https://image.shutterstock.com/image-photo/common-duckweed-lesser-260nw-1071268694.jpg');
+	  border: 5px double #395144;
+	  padding-top:10px;
+	  padding-bottom:10px;
+	  padding-right:10px;
+	  padding-left:10px;
+	  width:35%;
+	  position: relative;
+	  left: 400px;
+	  bottom: 11cm;
+  }
+  
+  #leucisties {
+	  position: absolute;
+	  left: 1cm;
+	  top: 0cm;
+	  width: 400px;
+	  height:400px;
+  }
+  
+  #leucistics {
+	  position: relative;
+	  left: 3cm;
+	  bottom: 8cm;
+	  border: 5px solid;
+	  width: 7cm;
+	  height: 7.5cm;
+	  padding-top:10px;
+	  padding-bottom:10px;
+	  padding-right:10px;
+	  padding-left:10px;
+  }
+  
+  p {
+	  position: relative;
+	  left: 0cm;
+	  top: 1cm;
+	  bottom: 0cm;
+	  width: 7cm;
+	  height: 6cm;
+  }
+  
+    #wildies {
+	  position: absolute;
+	  left: 1cm;
+	  top: 0cm;
+	  width: 400px;
+	  height:400px;
+  }
+  
+  #wild_typey {
+	  position: absolute;
+	  right: 14.5cm;
+	  bottom: 4cm;
+	  border: 5px solid;
+	  width: 7cm;
+	  height: 7.9cm;
+	  padding-top:10px;
+	  padding-bottom:10px;
+	  padding-right:10px;
+	  padding-left:10px;
+  }
+  
+  p {
+	  position: relative;
+	  left: 0cm;
+	  top: 1cm;
+	  bottom: 0cm;
+	  width: 7cm;
+	  height: 6cm;
+  }
+  
+    #bald {
+	  position: absolute;
+	  left: 2.5cm;
+	  top: 0cm;
+	  width: 400px;
+	  height:400px;
+  }
+  
+  #lil_pies {
+	  position: relative;
+	  left: 23.5cm;
+	  bottom: 32.6cm;
+	  border: 5px solid;
+	  width: 7cm;
+	  height: 11.5cm;
+	  padding-top:10px;
+	  padding-bottom:10px;
+	  padding-right:10px;
+	  padding-left:10px;	
+  }
+  
+  #leucistic {
+	  position: relative;
+	  top: 11cm;
+	  left: 2cm;
+  }
+  
+  #wildtype {
+	  position: relative;
+	  bottom: 5.4cm;
+	  left: 11cm;
+  }
+  
+  #piebald {
+	  position: relative;
+	  bottom: 9.5cm;
+	  left: 23cm;
+  }
+  
+  #mosaicis {
+	position: absolute;
+	left: 1.5cm;
+	top: 0cm;
+	width: 400px;
+	height:400px;
+  }
+  
+  #mosaics {
+	  position: relative;
+	  left: 2cm;
+	  bottom: 17cm;
+	  border: 5px solid;
+	  width: 7cm;
+	  height: 10.5cm;
+	  padding-top:10px;
+	  padding-bottom:10px;
+	  padding-right:10px;
+	  padding-left:10px;	  
+  }
+  
+  #chimers {
+	  position: absolute;
+	  left: 0cm;
+	  top: -1cm;
+	  width: 300px;
+	  height:500px;	
+	  border: 5px solid;
+	  width: 8cm;
+	  height: 10.5cm;
+	  padding-top:34px;
+	  padding-bottom:43px;
+	  padding-right:5px;
+	  padding-left:0px;	  
+  }
+  
+  #chims {
+	  position: absolute;
+	  text-align: center;
+	  left: 25cm;
+	  bottom: -30cm;
+	  width: 8cm;
+	  height: 9.5cm;
+	  padding-top:28px;
+	  padding-bottom:27px;
+	  padding-right:10px;
+	  padding-left:10px;
+  }
+  
+  #mosaic {
+	  position: absolute;
+	  left: 2cm;
+	  bottom: -42cm;
+  }
+  
+  #chimera {
+	  position: absolute;
+	  left: 25cm;
+	  bottom: -42cm;
+  }
