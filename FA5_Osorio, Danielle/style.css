@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
+	width: 75%;
+	border: 2px solid blue;
+  }
+  
+ header {
+	 background-color: light grey;
+  }
+ 
+h1 {
+	margin-top: 0;
+  }
+
+h2 {
+	font-family: italic;
+  }
+
+footer {
+	background-color: light grey;
+  }
