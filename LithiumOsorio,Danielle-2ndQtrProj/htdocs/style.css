@@ -1,0 +1,213 @@
+html {
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDlMpNPWZRX4iiDct77ooEUKwnMNstzLRglw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height:100%;
+	background-attachment: fixed; 
+	font-family: papyrus;
+	color: white;
+  }
+  
+  #axolotl_morph {
+	text-align: center;
+	color:rgb(160 217 149));
+    background-image: url('https://image.shutterstock.com/image-photo/common-duckweed-lesser-260nw-1071268694.jpg');
+    border: 5px double #395144;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-left:10px;
+    width:50%;
+    margin-bottom:20px;
+	position: relative;
+	left: 300px;
+  }  
+  
+  #leucisties {
+	  position: absolute;
+	  left: 0.5cm;
+	  top: 0cm;
+	  width: 400px;
+	  height:400px;
+  }
+  
+  #leucistics {
+	  position: absolute;
+	  left: 3cm;
+	  top: 15cm;
+	  width: 7cm;
+	  height: 7.5cm;
+  }
+  
+  p {
+	  position: absolute;
+	  left: 0cm;
+	  top: 1cm;
+	  bottom: 0cm;
+	  width: 7cm;
+	  height: 6cm;
+  }
+  
+    #wildies {
+	  position: absolute;
+	  left: 1cm;
+	  top: 0cm;
+	  width: 400px;
+	  height:400px;
+  }
+  
+  #wild_typey {
+	  position: absolute;
+	  left: 22cm;
+	  top: 15cm;
+	  width: 7cm;
+	  height: 7cm;
+  }
+  
+  p {
+	  position: absolute;
+	  left: 0cm;
+	  top: 1cm;
+	  bottom: 0cm;
+	  width: 7cm;
+	  height: 6cm;
+  }
+  
+    #bald {
+	  position: absolute;
+	  left: 1.5cm;
+	  top: 0cm;
+	  width: 400px;
+	  height:400px;
+  }
+  
+  #lil_pies {
+	  position: absolute;
+	  left: 22cm;
+	  top: 13cm;
+	  width: 7cm;
+	  height: 11cm;
+  }
+  
+  #leucistic {
+	  position: absolute;
+	  bottom: 0cm;
+	  left: 2cm;
+  }
+  
+  #wildtype {
+	  position: absolute;
+	  bottom: 0cm;
+	  left: 20cm;
+  }
+  
+  #piebald {
+	  position: absolute;
+	  top: 5cm;
+	  left: 21cm;
+  }
+  
+  #mosaicis {
+	position: absolute;
+	left: 0cm;
+	top: 0cm;
+	width: 400px;
+	height:400px;
+  }
+  
+  #mosaics {
+	  position: absolute;
+	  left: 4cm;
+	  top: 16cm;
+	  width: 7cm;
+	  height: 10cm;	  
+  }
+  
+  #chimers {
+	  position: absolute;
+	  left: 0cm;
+	  top: 0cm;
+	  width: 300px;
+	  height:500px;	
+	  width: 8cm;
+	  height: 10.5cm;  
+  }
+  
+  #chims {
+	  position: absolute;
+	  text-align: center;
+	  left: 3cm;
+	  top: 12cm;
+	  width: 8cm;
+	  height: 9.5cm;
+  }
+  
+  #mosaic {
+	  position: absolute;
+	  left: 3cm;
+	  top: 5cm;
+  }
+  
+  #chimera {
+	  position: absolute;
+	  left: 2cm;
+	  bottom: 3cm;
+  }
+	 
+	 
+  #melanid {
+	  position: absolute;
+	  left: 20cm;
+	  bottom: 3cm;
+  }
+  
+  #melans {
+	  position: absolute;
+	  text-align: center;
+	  left: 21cm;
+	  top: 12cm;
+	  width: 8cm;
+	  height: 7cm;
+  }
+  
+  #copper {
+	  position: absolute;
+	  left: 2cm;
+	  bottom: 3cm;
+  }
+  
+  #speckled {
+	  position: absolute;
+	  left: 20cm;
+	  bottom: 3cm;
+  }
+
+  #coppy {
+	  position: absolute;
+	  text-align: center;
+	  left: 3cm;
+	  top: 12cm;
+	  width: 8cm;
+	  height: 9.5cm;
+  }
+#copchops {
+	  position: absolute;
+	  left: 1cm;
+	  top: 0cm;
+}
+
+#speckles {
+	  position: absolute;
+	  text-align: center;
+	  left: 21cm;
+	  top: 12cm;
+	  width: 8cm;
+	  height: 9.5cm;
+}	  
+
+#specklers {
+	  position: absolute;
+	  left: 0cm;
+	  top: 0cm;
+}
