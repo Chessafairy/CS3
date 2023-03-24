@@ -1,0 +1,83 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Numerology</title>
+		<style>
+			body {background: lightblue;
+				text-align: center;
+				font-family: arial;
+				color: navy;
+			}
+			button {padding: 10x; background: violet }
+			span {font-size: 0.5em; color: maroon}
+		</style>
+		
+	</head>
+	<body>
+		<h1> Your Fortune is in your name </h1>
+		<h2> Your Name is: <span id="thename"> </span></h2>
+		<h2> Today's fortune: <span id="fortune"> </span></h2>
+		
+		<button onclick="personName()"> Click here to enter your name </button>
+		<script> 
+			function personName() {
+				var name = prompt ("Enter Name: ", " ");
+				document.getElementById("thename").innerHTML = name;
+				var length = name.length;
+				var singleDigit = 0;
+				while (length > 0) {
+					singleDigit += length % 10;
+					length = Math.floor(length / 10);
+				}
+				while (singleDigit > 9) {
+					var digitSum = 0;
+					while (singleDigit > 0) {
+						digitSum += singleDigit % 10;
+						singleDigit = Math.floor(singleDigit / 10);
+					}
+					singleDigit = digitSum;
+				}	
+					var fortune = "";
+					switch (singleDigit) {
+							case 0:
+								fortune = "There will be an unfortunate occurence in the next few days.";
+								break;
+							case 1:
+								fortune = "An exciting opportunity lies infront of you.";
+								break;
+							case 2:
+								fortune = "You will succeed in something you aim to do.";
+								break;	
+							case 3:
+								fortune = "The solution will arrive when things get most difficult.";
+								break;
+							case 4:
+								fortune = "What was lost will be found.";
+								break;
+							case 5:
+								fortune = "Luck finds those who deserve it.";
+								break;
+							case 6:
+								fortune = "You will achieve your dreams.";
+								break;
+							case 7:
+								fortune = "Someone is lying to you.";
+								break;
+							case 8:
+								fortune = "You are in BIG trouble buddy.";
+								break;
+							case 9:
+								fortune = "The love of your life is nonexistent.";
+								break;
+							default: 
+								fortune = "No fortune for you :(.";
+								break;
+						}
+						document.getElementById("fortune").innerHTML = fortune;
+						
+					}
+					
+					document.querySelector("button").addEventListener("Click", personName);
+		</script>
+	</body>
+</html>
